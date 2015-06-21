@@ -4,11 +4,11 @@ FareDelMioMeglio AiutareGliAltri InOgniCircostanza
 
 Tool: 
 
-AKELA <- database censimento
-CHIL <- notifiche | mail / sms
-HATI <- storico | eventi / info varie / backup 
-BAGHEERA(GIS) <- mappa utenti (?) 
-FERAO(AGENDA) <- eventi (iCal)
-RAKSHA <- indirizzario 
-TACCUINO <- storia / eventi / appunti... 
+*  AKELA <- database censimento
+*  CHIL <- notifiche | mail / sms
+*  HATI <- storico | eventi / info varie / backup 
+*  BAGHEERA(GIS) <- mappa utenti (?) 
+*  FERAO(AGENDA) <- eventi (iCal)
+*  RAKSHA <- indirizzario 
+*  TACCUINO <- storia / eventi / appunti... 
 
