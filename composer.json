@@ -17,8 +17,9 @@
         "phpoffice/phpexcel": "^1.8",
         "videlalvaro/php-amqplib": "^2.5",
         "mobiledetect/mobiledetectlib": "^2.8",
-        "php": ">=5.4.37",
-        "eluceo/ical": "^0.7.0"
+        "authbucket/oauth2-php": "~2.4",
+        "eluceo/ical": "^0.7.0",
+        "php": ">=5.4.37"
     },
     "require-dev": {
         "raveren/kint": "1.0.*",
