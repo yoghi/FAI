@@ -17,8 +17,9 @@
         "phpoffice/phpexcel": "^1.8",
         "videlalvaro/php-amqplib": "^2.5",
         "mobiledetect/mobiledetectlib": "^2.8",
-        "php": ">=5.4.37",
-        "eluceo/ical": "^0.7.0"
+        "eluceo/ical": "^0.7.0",
+        "wyrihaximus/sli-fly": "^2.0",
+        "php": ">=5.4.37"
     },
     "require-dev": {
         "raveren/kint": "1.0.*",
@@ -29,7 +30,8 @@
         "mikey179/vfsStream": "1.5.*",
         "psy/psysh": "@stable",
         "behat/mink-extension": "^2.0",
-        "phpunit/dbunit": "^1.4"
+        "phpunit/dbunit": "^1.4",
+        "apigen/apigen": "^4.1"
     },
     "archive": {
         "exclude": ["vendor", ".DS_Store", "*.log"]
