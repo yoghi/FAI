@@ -21,6 +21,6 @@ Tool:
 * x mobile-browser-detect nella parte pubblica https://github.com/serbanghita/Mobile-Detect
 * x testare il db (mock) https://packagist.org/packages/phpunit/dbunit
 * SECURITY - LOGIN : https://github.com/authbucket/oauth2-php 
-
+* x esplorare il FileSystem: https://github.com/WyriHaximus/SliFly 
 
 SCARTATI: http://bshaffer.github.io/oauth2-server-php-docs/ o https://packagist.org/packages/league/oauth2-server o https://packagist.org/packages/cartalyst/sentry
