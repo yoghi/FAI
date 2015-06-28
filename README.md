@@ -22,6 +22,7 @@ Tool:
 * x testare il db (mock) https://packagist.org/packages/phpunit/dbunit
 * SECURITY - LOGIN : https://github.com/authbucket/oauth2-php 
 * x esplorare il FileSystem: https://github.com/WyriHaximus/SliFly 
+* x i log il formato GELF può essere utile : https://packagist.org/packages/graylog2/gelf-php
 
 SCARTATI: http://bshaffer.github.io/oauth2-server-php-docs/ o https://packagist.org/packages/league/oauth2-server o https://packagist.org/packages/cartalyst/sentry
 
