@@ -30,7 +30,7 @@ SCARTATI: http://bshaffer.github.io/oauth2-server-php-docs/ o https://packagist.
 Con questo articolo http://mmoreram.com/blog/2014/09/01/bye-bye-symfony/ è ispirazione per usare suggest tra scriversi un componente simile a mailgun o usare mailgun ... da poter valutare in caso di tempi stretti. 
 
 
-Tool da usare : http://geshan.com.np/blog/2015/07/5-things-to-do-for-your-open-source-php-projects/ 
+Tool da usare : http://geshan.com.np/blog/2015/07/5-things-to-do-for-your-open-source-php-projects/ a cui aggiungere volendo : https://www.codacy.com/pricing 
 
 
 Oauth: https://github.com/Mashape/mashape-oauth/blob/master/FLOWS.md#oauth-10a-three-legged 
