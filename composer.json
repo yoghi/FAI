@@ -20,6 +20,7 @@
         "eluceo/ical": "^0.7.0",
         "wyrihaximus/sli-fly": "^2.0",
         "authbucket/oauth2-php": "~2.4",
+        "keyvanakbary/slugifier": "2.1.0",
         "php": ">=5.4.37"
     },
     "require-dev": {
