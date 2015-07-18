@@ -34,3 +34,6 @@ Tool da usare : http://geshan.com.np/blog/2015/07/5-things-to-do-for-your-open-s
 
 
 Oauth: https://github.com/Mashape/mashape-oauth/blob/master/FLOWS.md#oauth-10a-three-legged 
+
+
+Sarebbe importante che le pagine fornite supportasseo http://ogp.me 
