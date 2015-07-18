@@ -31,3 +31,6 @@ Con questo articolo http://mmoreram.com/blog/2014/09/01/bye-bye-symfony/ è ispi
 
 
 Tool da usare : http://geshan.com.np/blog/2015/07/5-things-to-do-for-your-open-source-php-projects/ 
+
+
+Oauth: https://github.com/Mashape/mashape-oauth/blob/master/FLOWS.md#oauth-10a-three-legged 
